@@ -3,9 +3,13 @@
 
 I'm an experienced machine learning engineer and Python developer.
 
-While most of my projects are closed-source, I'm happy to share some sample mini-projects with you here.
+#### Detail info
 
 [Careerpath](https://www.linkedin.com/in/grigorii-tarasov/#experience), [publications](https://www.linkedin.com/in/grigorii-tarasov/#publications), [certificates](https://www.linkedin.com/in/grigorii-tarasov/#licenses_and_certifications), [skills and technologies](https://www.linkedin.com/in/grigorii-tarasov/#skills) in detail are listed at [Linkedin](https://www.linkedin.com/in/grigorii-tarasov)
+
+#### Sample projects
+
+While most of my projects are closed-source, I'm happy to share solo projects that higlights some skills.
 
 | Project | Description | Technologies Used | Focus |
 | ----------- | ------------- | ---------- | ------------- |
