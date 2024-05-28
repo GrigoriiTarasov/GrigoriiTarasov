@@ -5,7 +5,7 @@ I'm an experienced machine learning engineer and Python developer.
 
 #### Detail info
 
-[Careerpath](https://www.linkedin.com/in/grigorii-tarasov/#experience), [publications](https://www.linkedin.com/in/grigorii-tarasov/#publications), [certificates](https://www.linkedin.com/in/grigorii-tarasov/#licenses_and_certifications), [skills and technologies](https://www.linkedin.com/in/grigorii-tarasov/#skills) in detail are listed at [Linkedin](https://www.linkedin.com/in/grigorii-tarasov)
+Careerpath, publications, certificates, skills and technologies in detail are listed at [Linkedin](https://www.linkedin.com/in/grigorii-tarasov)
 
 #### Sample projects
 
