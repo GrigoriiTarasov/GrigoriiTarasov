@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Grigorii Tarasov
 
-I'm an experienced machine learning engineer and Python developer.
+I'm an Experienced Machine Learning engineer, Python developer who started from Data Scientist job.
 
 #### Detail info
 
@@ -8,7 +8,7 @@ Careerpath, publications, certificates, skills and technologies are mostly liste
 
 #### Sample projects
 
-While most of my projects are closed-source, I'm happy to share some solo projects that higlights skills and stacks.
+While most of my projects are closed-source, I'm happy to share some solo projects that higlights skills and stack.
 <!---
 | Project | Description | Technologies Used  | Focus |
 | ----------- | ------------- | ------------ | ------------- |
@@ -40,9 +40,14 @@ While most of my projects are closed-source, I'm happy to share some solo projec
               Face-Age-Detection-app</a></td>
       <td>Detects a single face and predicts age. </br> Finetuned on UTKFace dataset. </br> Returns JSON with bounds coordinates, </br> age, and confidence</td>
       <td>
-        <nobr>Conda <a href="https://docs.anaconda.com/" target="_blank" rel="noreferrer"><img src="https://docs.anaconda.com/_static/Anaconda_Icon.png" width="20" /></a> deepface<a href="https://github.com/serengil/deepface" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/serengil/deepface/master/icon/deepface-icon-labeled.png" width="20"/></a></nobr></br>
-        <nobr>docker<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.docker.com/wp-content/uploads/2024/01/icon-docker-square.svg" width="20"/> </a>Fastapi<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="20"/> </a></nobr></br> 
+        <nobr>Conda <a href="https://docs.anaconda.com/" target="_blank" rel="noreferrer"><img src="https://docs.anaconda.com/_static/Anaconda_Icon.png" width="20" /></a> 
+          <!--deepface<a href="https://github.com/serengil/deepface" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/serengil/deepface/master/icon/deepface-icon-labeled.png" width="20"/></a></nobr></br> 
+-->
+        <nobr>docker<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://www.docker.com/wp-content/uploads/2024/01/icon-docker-square.svg" width="20"/></nobr><br>
+        DVC<a href="https://dvc.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Data_Version_Control._Official_Logo_by_Iterative.ai.png" width="24"/> </a>
+          Fastapi<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" width="20"/> </a></nobr></br> 
         github actions<a href="https://github.com/actions" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" width="20" /></a></br> 
+        MlFlow<a href="https://mlflow.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*D9b5hbQL27SQRX2iu91h6Q.png" width="46" /></a>
         <nobr> Pytest<a href="https://docs.pytest.org/en/8.2.x/" target="_blank" rel="noreferrer"> <img src="https://docs.pytest.org/en/8.2.x/_static/favicon.png" width="20" /></a> tensorflow<a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="20"/></a></nobr>
       </td>
       <td>CI, conteinerization</br>code quality</br> flexebility of model ML updates</td>
