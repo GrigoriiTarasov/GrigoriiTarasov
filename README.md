@@ -52,6 +52,14 @@ While most of my projects are closed-source, I'm happy to share some solo projec
       </td>
       <td>CI, conteinerization</br>code quality</br> flexebility of model ML updates</td>
     </tr>
+    <tr>
+      <td>(In process) MLE project </br>
+  <a href="https://github.com/GrigoriiTarasov/Optiver-Trading-at-the-Close-retrain-monitoring" target="_blank" rel="noreferrer">
+            Optiver-Trading-at-the-Close-retrain-monitoring</a></td>
+      <td> Monitored time series prediction pipeline with <br/>intensive feature engineering and<br/> best proven model of boosting family</td>
+      <td>Catboost, Polars</td>
+      <td>Feature engineering,</br> Boosting model, </br> Monitoring, time series, </br> metric decay automated prevention </td>
+    </tr>
   </tbody>
 </table>
 
