@@ -57,7 +57,9 @@ While most of my projects are closed-source, I'm happy to share some solo projec
   <a href="https://github.com/GrigoriiTarasov/Optiver-Trading-at-the-Close-retrain-monitoring" target="_blank" rel="noreferrer">
             Optiver-Trading-at-the-Close-retrain-monitoring</a></td>
       <td> Monitored time series prediction pipeline with <br/>intensive feature engineering including Linear Regression and<br/> best proven model of boosting family</td>
-      <td>Catboost, Polars</td>
+      <td>Catboost<a href="https://catboost.ai/" target="_blank" rel="noreferrer"> <img width="22" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png"  /></a> 
+        Optuna<a href="https://optuna.org/" target="_blank" rel="noreferrer"> <img src="https://optuna.org/assets/img/favicon.ico" width="22" /></a>
+        Polars<a href="https://pola.rs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/pola-rs/polars-static/master/logos/polars-logo-dark-medium.png" width="36" /></a></td>
       <td>Feature engineering,</br> Boosting model, </br> Monitoring, time series, </br> metric decay automated prevention </td>
     </tr>
   </tbody>
