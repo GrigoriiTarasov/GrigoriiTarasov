@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Grigorii Tarasov
 
-I'm an Experienced Machine Learning engineer, Python developer who started from Data Scientist job.
+I'm an Experienced Machine Learning engineer, Python developer who started from DS, QR jobs
 
 #### 1. Detailed info
 
